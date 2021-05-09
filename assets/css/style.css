@@ -85,7 +85,6 @@ section {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-
 }
 /* Hero Style End */
 
@@ -205,6 +204,9 @@ section {
 
 .step-text {
   flex: 12;
+}
+.step-img img {
+  max-width: 100%;
 }
 
 .section-title {
