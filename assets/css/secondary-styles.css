@@ -3,10 +3,11 @@
     height: auto;
     text-align: center;
     margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
     }
 
-
-  
   .page-title {
     font-weight: normal;
     font-size: 42px;
@@ -21,8 +22,7 @@
  .secondary-content  {
     margin: auto;
     width: 80%;
-    color: #024e76;
-     
+    color: #024e76;  
  }
 
  .secondary-content h3 {
